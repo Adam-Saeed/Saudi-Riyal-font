@@ -1,8 +1,8 @@
 /* symbols */
 @font-face {
-  font-family: 'Noto Kufi Arabic';
+  font-family: 'Saudi Riyal';
   font-style: normal;
-  font-weight: 300 900;
+  font-weight: 500;
   font-display: swap;
   src: url("NotoRiyal.woff2") format('woff2');
   unicode-range: U+fdfc;
