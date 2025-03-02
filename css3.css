@@ -1,0 +1,9 @@
+/* symbols */
+@font-face {
+  font-family: 'NotoRiyal';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://github.com/Adam-Saeed/Saudi-Riyal-font/blob/98f52e444090c73e695f5d7e62d61862947630d7/NotoRiyal.woff2) format('woff2');
+  unicode-range: U+fdfc;
+}
