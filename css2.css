@@ -4,7 +4,7 @@
   font-style: normal;
   font-weight: 300 900;
   font-display: swap;
-  src: url(https://adam-saeed.github.io/Saudi-Riyal-font/Saudi-Riyal-font/NotoRiyal.woff2) format('woff2');
+  src: url("NotoRiyal.woff2") format('woff2');
   unicode-range: U+fdfc;
 }
 /* arabic */
